@@ -38,7 +38,7 @@ export const ApiKeyModal: React.FC<{ onReady: () => void }> = ({ onReady }) => {
         </div>
         <h2 className="text-2xl font-bold text-white mb-4 brand-font">Authentication Required</h2>
         <p className="text-gray-400 mb-6">
-          To use the advanced Google Veo video generation models, you must select a valid project API Key.
+          To use the Google Gemini API, you must select a valid project API Key.
         </p>
         <button
           onClick={handleSelectKey}

@@ -1,5 +1,5 @@
 {
-  "name": "Copy of Cryptid Podcast Animator",
-  "description": "Generate unhinged scripts and animate static images of Human & Bigfoot using Google Veo and Gemini 2.5 Flash.",
+  "name": "Cryptid Podcast Script Generator",
+  "description": "Generate unhinged scripts for Human & Bigfoot using Gemini 2.5 Flash.",
   "requestFramePermissions": []
 }
